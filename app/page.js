@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <div style={styles.container}>
       <div style={styles.content}>
-        <h1 style={styles.heading}>CSE COST Association</h1>
+        <h1 style={styles.heading}>CSE COET Association</h1>
         <h2 style={styles.subheading}>Coming Soon</h2>
         <p style={styles.description}>
           We're working hard on something exciting. Stay tuned for the launch!
